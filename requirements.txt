@@ -1,0 +1,7 @@
+streamlit
+pandas
+networkx
+opentelemetry-api
+opentelemetry-sdk
+cryptography
+tabulate
